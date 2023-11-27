@@ -1,4 +1,4 @@
-## Description de la tarea
+## Description de la tarea.
 
 <!-- Descripción sobre lo que se pide en la tarea -->
 
@@ -6,7 +6,7 @@
 
 <!-- Estructura de clases, patrones: MVVM, etc.  -->
 
-## Keywords
+## Keywords.
 
 <!-- Palabras relacionadas con los conceptos vistos -->
 
